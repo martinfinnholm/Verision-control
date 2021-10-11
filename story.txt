@@ -5,3 +5,4 @@ a story about pencils
 many colors
 the end
  this is the end
+this is a new end
