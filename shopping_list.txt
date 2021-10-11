@@ -2,6 +2,3 @@ ketchup
 potato
 tomato
 grapes
-milk
-
-water
